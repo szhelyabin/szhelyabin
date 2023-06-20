@@ -8,9 +8,7 @@
 
 🚲  В свободное время я занимаюсь футболом и увлекаюсь велосипедным спортом.
 
-✉️  Ты можешь связаться со мной по email szhelyabin@gmail.com или в ТГ @szhelyabin.
-
-📄  В моем Резюме можно узнать больше обо мне. Я открыт для фидбека и предложений!
+📄  В моем [Резюме](https://disk.yandex.ru/i/PTIgygc-D8m8lg) можно узнать больше обо мне. Я открыт для фидбека и предложений!
 
 ### Languages and tools
 
@@ -19,3 +17,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
+
+### ✉️  Ты можешь связаться со мной по: 
+e-mail: szhelyabin@gmail.com 
+или в ТГ https://t.me/Szhelyabin
